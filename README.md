@@ -4,6 +4,7 @@
 * Learning about different types of lights in Unity, such as directional, point, spot, and area lights.
 * Mastering the properties and settings of each light type.
 * Implementing techniques like baked lighting, dynamic lighting, and mixed lighting.
+* Utilizing light cookies and light attenuation to create specific lighting effects.
 
 <img width="1856" alt="DirectionalLight" src="https://github.com/Scvirel/LightingBasics/assets/46399252/be2ab765-1e80-4029-ac90-3491db083bec">
 
@@ -25,10 +26,7 @@
 
 **Real-time Lighting:**
 * Leveraging real-time lighting techniques in Unity, such as dynamic lights and shadows.
-* Utilizing light cookies and light attenuation to create specific lighting effects.
-* Optimizing real-time lighting performance for smoother gameplay experiences.
-
-<img width="1743" alt="SciFi" src="https://github.com/Scvirel/LightingBasics/assets/46399252/1f95d813-a413-4ed4-b71b-385a820354a0">
+* Using 3 point light.
 
 <img width="1866" alt="ThreePoint_2" src="https://github.com/Scvirel/LightingBasics/assets/46399252/6627292e-cec4-4ee3-8fc4-7c495d97caea">
 
@@ -36,4 +34,5 @@
 * Exploring advanced lighting effects like volumetric lighting, light shafts, and ambient occlusion.
 * Applying post-processing effects to enhance the overall visual quality.
 
+<img width="1743" alt="SciFi" src="https://github.com/Scvirel/LightingBasics/assets/46399252/1f95d813-a413-4ed4-b71b-385a820354a0">
 <img width="1856" alt="Temple" src="https://github.com/Scvirel/LightingBasics/assets/46399252/059a48b6-e927-4b79-924e-a24c10561ed2">
